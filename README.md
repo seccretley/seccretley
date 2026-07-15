@@ -21,4 +21,4 @@ Status      currently building smt
 interface       React · JavaScript · HTML · CSS
 server          Node.js · SQL · REST APIs
 other           C++ · C# · .NET · Figma
-languages       Spanish · English · German · Russian
+languages       Spanish · English
