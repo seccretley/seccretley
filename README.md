@@ -10,6 +10,8 @@ Focus       React / JavaScript / web development
 Status      currently building smt
 </pre>
 
+<br>
+
 > > equal parts logic and curiosity.  
 
 <br>
