@@ -1,26 +1,24 @@
-<div align="center">
+<!-- profile: seccretley -->
 
-# 𓆩 seccretley 𓆪
+<pre>
+SECCRETLEY                                                [ONLINE]
 
-### software developer in progress
+KARLA ELIZABETH
+software developer · multimedia engineer
 
-*somewhere between logic and distortion.*
+Focus       React / JavaScript / web development
+Status      currently building smt
+</pre>
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,html,css,cs,dotnet,mysql,figma&theme=dark" />
-
-<br><br>
-
-Currently building things in the shadows.  
-Selected projects will emerge soon.
+> I like making things that exist somewhere  
+> between utility, identity and controlled distortion.
 
 <br>
 
-`frontend` · `backend` · `ui/ux`
+### / selected knowledge
 
-<br>
-
-⋆｡°✩
-
-</div>
+```txt
+interface       React · JavaScript · HTML · CSS
+server          Node.js · SQL · REST APIs
+other           C# · .NET · Figma
+languages       Spanish · English · German · Russian
