@@ -10,8 +10,7 @@ Focus       React / JavaScript / web development
 Status      currently building smt
 </pre>
 
-> I like making things that exist somewhere  
-> between utility, identity and controlled distortion.
+> > equal parts logic and curiosity.  
 
 <br>
 
