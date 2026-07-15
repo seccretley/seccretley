@@ -20,5 +20,5 @@ Status      currently building smt
 ```txt
 interface       React · JavaScript · HTML · CSS
 server          Node.js · SQL · REST APIs
-other           C# · .NET · Figma
+other           C++ · C# · .NET · Figma
 languages       Spanish · English · German · Russian
